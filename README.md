@@ -20,7 +20,6 @@ Cada carpeta contiene:
 
 - Archivo SQL con la creación de las tablas y datos de ejemplo.
 - Diagrama Entidad-Relación (DER).
-- Ejemplos de consultas SQL (INSERT, SELECT, UPDATE, DELETE).
 
 ## Cómo Usar
 

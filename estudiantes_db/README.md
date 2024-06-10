@@ -25,3 +25,4 @@ Esta carpeta contiene los archivos relacionados con la base de datos de estudian
 
 1. Importe `estudiantes_db.sql` a su base de datos MySQL.
 2. Consulte `DER-estudiantes_db.png` para entender la estructura de la base de datos.
+3. Ejecute las consultas desde el administrador de base de datos de su preferencia.

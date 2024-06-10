@@ -20,7 +20,8 @@ Cada carpeta contiene:
 
 - Archivo SQL con la creación de las tablas y datos de ejemplo.
 - Diagrama Entidad-Relación (DER).
-
+- Archivo README.md con más detalle sobre la base de datos.
+  
 ## Cómo Usar
 
 1. Clone el repositorio en su máquina local.
